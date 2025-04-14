@@ -1,0 +1,7 @@
+请将下列各部分分析结果整合为一份连贯、结构化的报告：
+1. 整体分析：{overall_analysis}
+2. 房屋分析：{house_analysis}
+3. 树木分析：{tree_analysis}
+4. 人物分析：{person_analysis}
+
+请使用清晰的 Markdown 格式呈现，包括标题和合适的分段，使报告具有良好的可读性。
