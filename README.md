@@ -33,7 +33,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/LYiHub/psydraw.git
+git clone https://github.com/gtnzxy/HTPPDA.git
 cd HTPPDA
 ```
 
