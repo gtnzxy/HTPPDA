@@ -1,0 +1,5 @@
+Based on the comprehensive final analysis provided below, determine whether the drawing exhibits any abnormal risks or negative emotions that may necessitate an alert.
+Only return a single JSON object in the following format:
+{{"result": "true"}} indicates that a risk is present (alert needed),
+{{"result": "false"}} indicates that no abnormal risk is detected.
+Please output only a valid JSON object conforming to the specified format, without any additional text or explanation.

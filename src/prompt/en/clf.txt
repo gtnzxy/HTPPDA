@@ -1,0 +1,5 @@
+Based on the description of the safety signals below, determine whether the drawing exhibits abnormal risks or negative emotions that may trigger an alert mechanism.
+Only return a single JSON object in the following format:
+{{"result": "true"}} indicates that a risk is present (alert needed),
+{{"result": "false"}} indicates that the risk is normal.
+Please do not return any additional information—only output JSON data conforming to the specified format.

@@ -1,0 +1,1 @@
+Please extract and describe the features related to the house portion of the drawing. Focus on details such as the overall structure, architectural style, proportion, spatial arrangement, and color usage. Highlight any signs of damage or unique characteristics observed. Organize your description in a clear, concise markdown format.

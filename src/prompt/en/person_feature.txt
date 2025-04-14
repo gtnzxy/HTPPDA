@@ -1,0 +1,1 @@
+Please extract and describe the features related to the person portion of the drawing. Focus on aspects such as posture, body language, facial expressions, clothing style and details, the position of the person within the composition, and their interaction with other elements. Organize your description in a clear, concise markdown format.

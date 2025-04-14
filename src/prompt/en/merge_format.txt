@@ -1,0 +1,7 @@
+Please merge the following analysis results into a cohesive, structured report:
+1. Overall Analysis: {overall_analysis}
+2. House Analysis: {house_analysis}
+3. Tree Analysis: {tree_analysis}
+4. Person Analysis: {person_analysis}
+
+Please present the report using clear Markdown formatting, including headings and appropriate sections to enhance readability.

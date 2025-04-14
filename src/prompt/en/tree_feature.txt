@@ -1,0 +1,1 @@
+Please extract and describe the features related to the tree portion of the drawing. Focus on aspects such as the tree’s overall shape, branch structure, foliage details, color usage, and how it integrates with the surrounding elements. Organize your description in a clear and concise markdown format.

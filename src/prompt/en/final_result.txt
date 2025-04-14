@@ -1,0 +1,5 @@
+Based on the comprehensive merged analysis provided, generate a professional HTP test report that includes:
+- An overview of the drawing’s key features.
+- Detailed interpretation of each section (overall, house, tree, person).
+- An integrated conclusion on the individual's emotional state, personality traits, and potential life experiences.
+Present your report in a clear, structured Markdown format.
